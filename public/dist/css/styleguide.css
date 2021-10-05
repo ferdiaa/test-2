@@ -1,0 +1,76 @@
+:root { 
+  --concrete: #f1f3f6;
+  --gull-gray: #93afb5;
+  --harlequin: #40be05;
+  --pale-sky: #6c757d;
+  --shark: #212529;
+  --tuna: #343a40;
+  --vermilion: #fa4a0c;
+  --white: #ffffff;
+  --william: #3d6670;
+ 
+  --font-size-l: 14.4px;
+  --font-size-m: 13.1px;
+  --font-size-s: 11.8px;
+  --font-size-xl: 15.7px;
+  --font-size-xxl: 17.1px;
+  --font-size-xxxl: 23.6px;
+  --font-size-xxxxl: 28.9px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-medium-william-15-7px {
+  color: var(--william);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-harlequin-15-7px {
+  color: var(--harlequin);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-normal-gull-gray-13-1px {
+  color: var(--gull-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-medium-gull-gray-13-1px {
+  color: var(--gull-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-tuna-17-1px {
+  color: var(--tuna);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-normal-shark-17-1px {
+  color: var(--shark);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-pale-sky-13-1px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
